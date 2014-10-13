@@ -1,0 +1,14 @@
+dependency-reduced-pom.xml
+/target
+
+# Eclipse specific
+.classpath
+.project
+.settings
+
+#Intellij
+.idea
+*.iml
+
+data/
+
